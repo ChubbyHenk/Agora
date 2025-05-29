@@ -33,4 +33,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ghcr.io/fesaa/agora:latest
+          tags: ghcr.io/chubbyhenk/agora:latest
